@@ -1,0 +1,5 @@
+{
+  "name": "AI Prompt Lab",
+  "description": "A professional environment to design, test, score, and organize AI prompts using Google Gemini. Features a dark-mode UI, prompt versioning, cost estimation, and advanced prompt enhancement tools.",
+  "requestFramePermissions": []
+}
